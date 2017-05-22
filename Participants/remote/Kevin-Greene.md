@@ -16,5 +16,5 @@ status           : add-details
 working-sessions :
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
-
+Is the Owasp Top 10 Data Collection Open
 <!-- put more details about participant here -->
